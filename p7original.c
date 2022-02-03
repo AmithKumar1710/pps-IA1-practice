@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//0
 struct _complex{
   float real,imaginary;
 };

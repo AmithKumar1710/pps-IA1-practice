@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//0
 int input()
 {
   int n;

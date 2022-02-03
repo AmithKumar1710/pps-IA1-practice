@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//0
 float input()
 {
   float n;
